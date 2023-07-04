@@ -12,7 +12,7 @@ const Home = () => {
     return (
         <div id='home' className='aos-item px-3 md:px-24 flex flex-col md:flex-row bg-zinc-700 justify-between gap-20 py-20'>
             <div className='w-[70%] space-y-8 flex flex-col justify-center'  data-aos="fade-up">
-                <h2 className='text-xl md:text-3xl text-white uppercase font-bold'>Delowar Hossain Milton</h2>
+                <h2 className='text-xl md:text-3xl text-white font-bold nameFont'>Hello, I am Delowar Hossain Milton</h2>
                 <h1 className='text-xl md:text-4xl text-white font-bold'>I'm a <span className='text-green-600'><Typewriter words={words} loop /></span></h1>
                 <p className='text-sky-300 text-lg'>I am a well-versed MERN Stack developer & designer with 1 years plus experience. I have led many projects from design to deployment which have impacted thousands of people. I love to blend my skills in the most creative way possible.</p>
                 <div>
